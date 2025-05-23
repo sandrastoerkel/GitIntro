@@ -1,3 +1,3 @@
 # GitIntro
 
-Hallo Welt
+Hallo Welt!
